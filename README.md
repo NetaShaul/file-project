@@ -1,6 +1,6 @@
 # Movie Dataset Project - Part 1
 **Student:** Neta Or Shaul  
-**ID:** 323130716
+
 **GitHub:** [View Project on GitHub](https://github.com/NetaShaul/file-ptoject)
 
 ## Project Overview
